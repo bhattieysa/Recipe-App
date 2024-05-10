@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "520930733034",
+    "project_id": "tfrecipee",
+    "storage_bucket": "tfrecipee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520930733034:android:7cbf5a5efec53236f1a093",
+        "android_client_info": {
+          "package_name": "org.tensorflow.lite.examples.detection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520930733034-8so9nmnsnpakkv0cph3d1tmiu7qldorf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJUsCx90jBXdEDcG_8la0jxLWQBYp6lxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520930733034-8so9nmnsnpakkv0cph3d1tmiu7qldorf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

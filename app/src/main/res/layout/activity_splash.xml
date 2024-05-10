@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="#FFEB3B"
+    android:layout_height="match_parent"
+    tools:context=".splash.SplashActivity">
+    <ImageView
+        android:background="@drawable/sp"
+        android:layout_centerInParent="true"
+        android:id="@+id/img_view"
+        android:layout_width="@dimen/_160sdp"
+        android:layout_height="@dimen/_160sdp"/>
+    <TextView
+        android:layout_below="@+id/img_view"
+        android:padding="@dimen/_25sdp"
+        android:textColor="@color/black"
+        android:textSize="@dimen/_24ssp"
+        android:gravity="center"
+        android:text="Intelligent Recipe Suggester App"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+</RelativeLayout>
